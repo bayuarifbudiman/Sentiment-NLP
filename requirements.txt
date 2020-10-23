@@ -1,0 +1,4 @@
+records==0.5.3
+pysolr==3.9.0
+Logbook==1.5.3
+mysql_connector_repackaged==0.3.1
